@@ -4,9 +4,9 @@ import { Component } from '@angular/core';
   selector: 'app-root',
 
   template : `
-  <h2>::-------------------------------CSS----------------------------------::</h2>
+  <h2>::-------------------------------Test build by Prashant Savadi----------------------------------::</h2>
 
-  <h3> This is reday to deploy build!!</h3>
+  <h3> This is Angular 4 Project!!</h3>
 
   `,
   styles: [ `
